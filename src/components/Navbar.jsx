@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <nav className='flex justify-between p-4  bg-gradient-to-r from-violet-700 from-10% to-pink-500 text-white font-medium items-center'>
+    <nav className='flex justify-between p-4  bg-gradient-to-r from-violet-700 from-10% to-pink-500 text-white font-medium items-center fixed top-0 w-full'>
         <div className="logo cursor-pointer text-xl mx-10">iTask</div>
         <ul className='flex gap-2 md:gap-0'>
             <li className='cursor-pointer hover:scale-105 transition-all'>Home</li>
