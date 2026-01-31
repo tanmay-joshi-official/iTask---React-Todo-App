@@ -87,7 +87,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <div className="flex rounded-lg bg-[#f2e6ff] my-10 mx-10 flex-col p-5 items-center md:min-w-max md:w-1/2 w-[90%] justify-self-center">
+      <div className="flex rounded-lg bg-[#f2e6ff] my-10 mt-28 mx-10 flex-col p-5 items-center md:min-w-max md:w-1/2 w-[90%] justify-self-center">
         <div className="addTodo">
           <h1 className="mx-5 my-3 mb-7 text-2xl font-bold text-center">Add Todo</h1>
           <div className="flex md:flex-row flex-col justify-center gap-3 items-center md:items-start">
