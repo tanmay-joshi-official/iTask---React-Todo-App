@@ -23,6 +23,18 @@ The app is designed to stay minimal and distraction-free while still being funct
 
 ---
 
+# 📸 Project Demo
+
+https://github.com/user-attachments/assets/25bb4530-d8a2-4d43-955c-c5295e53f7c0
+
+---
+
+# 🌟 Live Preview
+
+https://itask-react-todo-app.netlify.app/
+
+---
+
 # 🚀 Features
 
 ✔ Add new todos  
@@ -58,12 +70,6 @@ The app is designed to stay minimal and distraction-free while still being funct
 - useRef prevents overwriting localStorage on first render  
 - Array methods handle edit, delete, and toggle logic  
 - Tailwind handles layout and responsiveness  
-
----
-
-# 📸 Preview
-
-![Preview]()
 
 ---
 
